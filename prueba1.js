@@ -1,3 +1,1 @@
-function hambre (x){
-    return true;
-}
+let soyUnArray = ['tengo', 'mucha', 'hambre', 'mato', 'por', 'una', 'triple', 'con', 'queso'];
