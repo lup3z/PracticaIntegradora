@@ -1,1 +1,3 @@
-console.log(hola);
+function hambre (x){
+    return true;
+}

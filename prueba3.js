@@ -1,1 +1,3 @@
-console.log(estas);
+if (hambre == true) {
+    return 'pedir comida';
+} 
